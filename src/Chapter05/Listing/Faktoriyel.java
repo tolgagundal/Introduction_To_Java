@@ -1,6 +1,5 @@
 package Chapter05;
 
-import java.lang.invoke.MethodHandles;
 import java.util.Scanner;
 
 public class Faktoriyel {
